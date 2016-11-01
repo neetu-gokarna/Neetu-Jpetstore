@@ -1,0 +1,2 @@
+This is a test file.
+Adding file to git repo.
